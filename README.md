@@ -33,6 +33,7 @@ Energy prices are daily seasonality. Energy prices are different during the day 
 The energy price forecasting model is based on LSTM, a type  of recurrent neural network (RNN). This type of RNN is especially recommended to prediction time series problems. While training model, Time Series Cross Validation was used to avoid overfitting. Process training of model is ready-to-use and was prepared according to Python OOP Concepts.
 
 ## Results
+<img width="708" height="121" alt="image" src="https://github.com/user-attachments/assets/4d2a02a6-4bd8-4c95-acc2-2c0d70217306" />
 
 
 ## Plans for the development of project:	
